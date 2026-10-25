@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About Me
+
+I am a fourth year CSE student at IIIT Kottayam, interested in anything and everything under the sun. I've dabbled in:
+- Design
+- UX research
+- Market Research
+- Frontend development
+- Cryptography
+- Mangement: Event, Project, Product
+- Open Source Development
+
 ![snake](https://raw.githubusercontent.com/GauriLekshmiSathya/GauriLekshmiSathya/output/snake.svg)
