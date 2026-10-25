@@ -34,6 +34,4 @@ I am a fourth year CSE student at IIIT Kottayam, interested in anything and ever
 
 
 
-# My Writing
-
 ![snake](https://raw.githubusercontent.com/GauriLekshmiSathya/GauriLekshmiSathya/output/snake.svg)
