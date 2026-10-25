@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GauriLekshmiSathya/GauriLekshmiSathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +23,17 @@ I am a fourth year CSE student at IIIT Kottayam, interested in anything and ever
 - Cryptography
 - Mangement: Event, Project, Product
 - Open Source Development
+
+# Skills
+
+- Languages: C++, SQL, Python, HTML/CSS
+- Operating Systems: Windows, Linux (Ubuntu, Mint)
+- Developer Tools: Figma, Canva, Adobe Creative Suite, Jira, Linear, Notion, MS Excel, Power BI, MS Office, VirtualBox, VS Code, Google Colab, Anaconda, Docker, Kubernetes
+
+# Socials
+
+
+
+# My Writing
 
 ![snake](https://raw.githubusercontent.com/GauriLekshmiSathya/GauriLekshmiSathya/output/snake.svg)
