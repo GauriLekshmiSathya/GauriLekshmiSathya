@@ -24,6 +24,8 @@ I am a fourth year CSE student at IIIT Kottayam, interested in anything and ever
 - Mangement: Event, Project, Product
 - Open Source Development
 
+<!-- what are my favourites of these -->
+
 # Skills
 
 - Languages: C++, SQL, Python, HTML/CSS
